@@ -1,2 +1,2 @@
-# school-product3
+# school-product2
 Created with CodeSandbox
